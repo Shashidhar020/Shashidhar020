@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aarav Sharma</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | Final Year Student</h3>
