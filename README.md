@@ -1,113 +1,110 @@
+<!-- Banner / Intro -->
 
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aarav Sharma</h1>
-<h3 align="center">AI/ML Enthusiast | Software Developer | Final Year Student</h3>
+<h1 align="center">🚀 Hey, I'm Aarav Sharma</h1>
+<h3 align="center">AI/ML Engineer in Progress | Software Developer | Problem Solver</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+Cool+Projects;Always+Learning+New+Tech&center=true&width=550&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year B.Tech student in Computer Science (AI & ML specialization)  
-- 🤖 Passionate about Artificial Intelligence, Deep Learning, and building real-world applications  
-- 💡 Love solving problems using code and data  
-- 🌱 Currently learning **MLOps, System Design, and Advanced Deep Learning**  
-- 🧠 Exploring **LLMs, Computer Vision, and NLP**  
-- ⚡ Fun fact: I can debug faster with coffee ☕  
+## 🧠 About Me
+
+🎓 Final Year B.Tech Student (AI & ML)
+🤖 Passionate about building intelligent systems and scalable apps
+💡 I enjoy turning ideas into real-world tech solutions
+⚡ Strong interest in **Deep Learning, LLMs & System Design**
+☕ Debugging + Coffee = Productivity boost
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+</p>
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv">
+<img src="https://img.shields.io/badge/-ScikitLearn-black?style=flat&logo=scikitlearn">
+</p>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+### 🌐 Development
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mongodb" />
+</p>
 
-## 📌 Featured Projects
+### ⚙️ Tools
 
-### 🔹 AI Resume Screening System
-- Built an NLP-based system to rank resumes based on job descriptions  
-- Tech: Python, NLP, Scikit-learn  
-- 🔗 [Project Link](#)
-
-### 🔹 Smart Traffic Management (Computer Vision)
-- Real-time vehicle detection using OpenCV and YOLO  
-- Reduced congestion prediction using ML models  
-- 🔗 [Project Link](#)
-
-### 🔹 Full Stack Blogging Platform
-- Developed a MERN stack blog app with authentication  
-- Features: CRUD operations, user login, comments  
-- 🔗 [Project Link](#)
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+✨ **AI Resume Analyzer**
+→ NLP-based system to match resumes with job roles
+
+🚦 **Smart Traffic Detection System**
+→ Real-time vehicle detection using YOLO + OpenCV
+
+📝 **Full Stack Blog Platform**
+→ MERN app with authentication & dynamic content
+
+> 🔗 *Update links when you upload your projects*
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
-- 📖 Deep Learning Specialization  
-- ⚙️ MLOps (CI/CD for ML models)  
-- ☁️ Cloud Deployment (AWS, Docker, Kubernetes)  
+## 🌱 Currently Leveling Up
+
+* 🧠 Advanced Deep Learning
+* ⚙️ MLOps & Model Deployment
+* ☁️ Cloud (AWS + Docker + Kubernetes)
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-</a>
-<a href="mailto:aaravsharma@email.com">
-  <img align="center" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" />
-</a>
-<a href="https://portfolio-link.com">
-  <img align="center" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox" />
-</a>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox"></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+## 💭 Quote I Live By
+
+> *"Build things that make an impact, not just noise."*
 
 ---
 
-⭐️ *"Code. Learn. Build. Repeat."*
-```
+<p align="center">
+⭐ From <b>Aarav Sharma</b> — Keep Learning, Keep Building 🚀
+</p>
