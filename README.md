@@ -111,16 +111,6 @@ A full-stack learning platform built with frontend and backend application compo
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashidhara020&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidhara020&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashidhara020&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ---
 
